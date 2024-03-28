@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedcod&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedcod" /> </p>
